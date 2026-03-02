@@ -1,0 +1,1 @@
+/home/silas/Dev/Projetos/MundoGaturro/api/target/debug/api: /home/silas/Dev/Projetos/MundoGaturro/api/src/config.rs /home/silas/Dev/Projetos/MundoGaturro/api/src/handler/mod.rs /home/silas/Dev/Projetos/MundoGaturro/api/src/main.rs
