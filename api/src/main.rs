@@ -27,4 +27,5 @@ async fn main() -> Result<(), std::io::Error> {
     .bind(("127.0.0.1", 8080))?
     .run()
     .await
+    println!("Server is running on localhost>8080");
 }
